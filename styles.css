@@ -1,7 +1,5 @@
 body {
-  background-color: #000000;
-  color: #ffffff;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Comfortaa", cursive;
   font-size: 14px;
   line-height: 1.42857143;
   margin: 0;
@@ -13,3 +11,20 @@ h1 {
   justify-content: center;
 }
 
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+footer {
+  position: fixed;
+  left: 0px;
+  bottom: 0px;
+  height: 30px;
+  width: 100%;
+  background: blue;
+  color: white;
+  text-align: center;
+  border-top: 2px solid black;
+}
