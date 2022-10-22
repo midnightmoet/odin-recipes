@@ -19,10 +19,6 @@ h1 {
   font-size: 2.5em;
 }
 
-h3 {
-  text-align: center;
-}
-
 .description {
   text-align: center;
 }
@@ -37,6 +33,7 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  border-radius: 15px;
 }
 
 .grid-container {
@@ -54,6 +51,10 @@ img {
   padding: 20px;
   margin: 10px;
   box-shadow:  0 0 10px gray;
+}
+
+.description {
+  text-align: center;
 }
 
 ul {
