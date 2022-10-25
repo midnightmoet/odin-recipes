@@ -11,3 +11,6 @@ This was the very first assignment with the updated Odin Project curriculum. I l
 
 ## Let's Network 🔗
 - [Twitter](https://twitter.com/midnightmoet)
+
+#View this project 🔗
+- [GitHub Deploy Link] (https://midnightmoet.github.io/odin-recipes/)
